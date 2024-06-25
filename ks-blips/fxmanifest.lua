@@ -1,0 +1,10 @@
+
+fx_version 'cerulean'
+game 'gta5'
+author 'Kedue'
+description 'Qbcore ve ESX icin blip creator'
+version '1.0'
+discord 'https://discord.gg/moonrp'
+scriptname 'ks-blips'
+shared_script 'config.lua'
+client_script 'ksblips.lua'
